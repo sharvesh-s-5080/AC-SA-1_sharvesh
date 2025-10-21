@@ -398,25 +398,25 @@ How the code implements these equations.
 
    AM:
    
-   <img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/5d3ce4a9-1ebb-47a2-b5c5-71eb53f0a5b2" />
+   <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/5d3ce4a9-1ebb-47a2-b5c5-71eb53f0a5b2" />
 
 
 
    FM:
    
-   <img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/0ad3081a-236a-4181-97e0-55f2eaf34e89" />
+   <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/0ad3081a-236a-4181-97e0-55f2eaf34e89" />
    
 
 
    DSB-SE:
    
-   <img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/db806fa5-ff24-4eb5-b2dd-fe6bc49aa856" />
+   <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/db806fa5-ff24-4eb5-b2dd-fe6bc49aa856" />
    
 
 
   SSB-SE:
    
-   <img width="777" height="970" alt="image" src="https://github.com/user-attachments/assets/f24755d6-082f-437a-89ab-3c4e006ef86a" />
+   <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/f24755d6-082f-437a-89ab-3c4e006ef86a" />
 
 
 
